@@ -2,26 +2,26 @@
 
 ## * A LITTLE BIT ABOUT ME *
 
-```yaml
-location: ['Cape Town'],
+```javascript
+let location = 'Cape Town';
 
-fields_of_interest:
-[ 'Web Development',
+const fields_of_interest = [
+  'Web Development',
   'QA Testing',
-],
+];
 
-technical_background: 
-[ 'CodeSpace Academy - Web development',
-  'SASTQB - Software testing foundation level',
-],
+const technical_background = {
+  'codeSpace academy': 'web development',
+  'SASTQB': 'software testing foundation level',
+};
 
-currently_learning: [ 'Node.js, Vue and Nuxt'],
-2023_goals: 
-[
-  'Work on a collaborative project,
-  create 5 personal projects,
-  and learn new technologies for web development'
-  ],
+let currently_learning = [ 'Node.js', 'Vue', 'Nuxt' ];
+
+let goals_2023 = [
+  'contribute to a collaborative project',
+  'create 5 personal projects',
+  'learn 5 new technologies for web development'
+  ];
 ```
 
 ## * SOME TECHNOLOGIES I HAVE USED *
