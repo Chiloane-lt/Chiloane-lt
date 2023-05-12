@@ -45,7 +45,12 @@ currently_learning: [ 'Node.js, Vue and Nuxt'],
 <p/>
 
 ## * MY STATS *
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiloane-lt&rank_icon=github&theme=synthwave&show_icons=true&hide=stars,prs" width="49%" height="200"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiloane-lt&layout=compact&theme=synthwave" width="50%" height="156" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiloane-lt&rank_icon=github&theme=synthwave&show_icons=true&hide=stars,prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+![footer](modern-footer.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiloane-lt&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
