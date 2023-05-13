@@ -6,12 +6,13 @@
 let location = 'Cape Town';
 
 const fields_of_interest = [
-  'Web Development',
+  'software development',
+  'web development',
   'QA Testing',
 ];
 
 const technical_background = {
-  'codeSpace academy': 'web development',
+  'codeSpace academy': 'software development',
   'SASTQB': 'software testing foundation level',
 };
 
