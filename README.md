@@ -15,7 +15,7 @@ const technical_background = {
   'codeSpace academy': 'software development',
 };
 
-let currently_learning = [ 'Node.js', 'Vue', 'Nuxt', 'Reacr' ];
+let currently_learning = [ 'Node.js', 'Vue', 'Nuxt', ];
 
 let goals_2023 = [
   'contribute to a collaborative project',
