@@ -13,10 +13,9 @@ const fields_of_interest = [
 
 const technical_background = {
   'codeSpace academy': 'software development',
-  'SASTQB': 'software testing foundation level',
 };
 
-let currently_learning = [ 'Node.js', 'Vue', 'Nuxt' ];
+let currently_learning = [ 'Node.js', 'Vue', 'Nuxt', 'Reacr' ];
 
 let goals_2023 = [
   'contribute to a collaborative project',
