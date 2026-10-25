@@ -24,7 +24,7 @@ let goals_EOT = [
 
 ## * SOME TECHNOLOGIES I HAVE USED *
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mendix/mendix-original.svg" width="45" height="45" alt="Mendix"/>
+<img src="https://img.shields.io/badge/Mendix-Platform%20Development-0595DB?style=for-the-badge&logo=mendix&logoColor=white" alt="Mendix" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" width="45" height="45" />
