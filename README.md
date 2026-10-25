@@ -5,10 +5,10 @@
 ```javascript
 let location = 'Cape Town';
 
-const fields_of_interest = [
-  'software development',
-  'web development',
-  'QA Testing',
+const current_focus = [
+  'role': 'platform lead,
+  'working with': 'mendix', 'software development', 'growing my collection of hobbies',
+  'currently learning': 'C++', 'java', 'other life enriching things'
 ];
 
 const technical_background = {
@@ -26,6 +26,7 @@ let goals_2023 = [
 
 ## * SOME TECHNOLOGIES I HAVE USED *
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mendix/mendix-original.svg" width="45" height="45" alt="Mendix"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" width="45" height="45" />
