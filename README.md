@@ -12,15 +12,13 @@ const current_focus = [
 ];
 
 const technical_background = {
-  'codeSpace academy': 'software development',
+  'i don't know anything about anything. i know nothing. that is all you need to know',
 };
 
-let currently_learning = [ 'Node.js', 'Vue', 'Nuxt', ];
-
-let goals_2023 = [
+let goals_EOT = [
   'contribute to a collaborative project',
   'create 5 personal projects',
-  'learn 5 new technologies for web development'
+  'live, love & laugh'
   ];
 ```
 
